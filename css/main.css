@@ -99,6 +99,19 @@ img {
     width: 40%;
 }
 
+.cont_header {
+    background: #000;
+    width: 400px;
+    height: 320px;
+    padding: 15px;
+    border-radius: 50px;
+    /*border-bottom: 8px solid #fff;*/
+}
+
+.text_cont_header {
+    color: #fff;
+}
+
 .textbox-left {
     float: left;
     width: 300px;
